@@ -1,0 +1,1 @@
+a3f88d547c0f612a1896c3a46bd7b7490dcc4aa2ffff2638364729d65be6dcbf  ./target/wasm32-unknown-unknown/release/nft_base.wasm
